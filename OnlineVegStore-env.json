@@ -1,0 +1,21 @@
+{
+	"id": "82d66717-c251-45e7-b5e7-70863e3ad86b",
+	"name": "OnlineVegStore",
+	"values": [
+		{
+			"key": "access_token",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "authcode",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2025-08-19T15:21:59.658Z",
+	"_postman_exported_using": "Postman/11.58.2"
+}
